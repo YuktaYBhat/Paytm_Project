@@ -1,0 +1,4 @@
+ maintaing ALL URL IS For router express
+ for backend and frontend to communicate use cors
+ ZOD FOR INPUT VALIDATION
+ 
