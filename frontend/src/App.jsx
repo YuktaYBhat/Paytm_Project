@@ -11,9 +11,10 @@ import SendMoney from '../pages/Send'
 function App() {
     return (<div>
         <BrowserRouter>
+        
         <Routes>
             <Route path="/Signup" element={<Signup/>}></Route>
-            <Route path="/Signin" element={<Signin/>}></Route> 
+            <Route path="/" element={<Signin/>}></Route> 
             <Route path="/DashBoard" element={<DashBoard/>}></Route>
             <Route path="/Send" element ={<SendMoney/>}></Route>
         </Routes>
