@@ -8,7 +8,7 @@
 const mongoose=require("mongoose")
 const { float32, bigint, number } = require("zod")
 
-mongoose.connect('mongodb+srv://admin:yyb123@cluster0.lrw2ab2.mongodb.net/paytm')
+mongoose.connect('')
 
 
 const UserSchema= new mongoose.Schema({

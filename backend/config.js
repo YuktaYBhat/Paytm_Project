@@ -1,2 +1,2 @@
-const JWT_SECRET="howareyou"
+const JWT_SECRET=""
 module.exports={JWT_SECRET}
