@@ -24,7 +24,6 @@ Paytm_Project/
 
 ### 1. Clone the Repository
 git clone https://github.com/YuktaYBhat/Paytm_Project.git
-cd Paytm_Project
 
 ### 2. Install Dependencies
 Install dependencies for both the backend and frontend:
