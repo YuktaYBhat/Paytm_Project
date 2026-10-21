@@ -13,13 +13,6 @@ A full-stack digital wallet web application built with the MERN stack (MongoDB, 
 - Backend: Node.js, Express.js
 - Database: MongoDB & Mongoose
 
-## Project Structure
-Paytm_Project/
-├── backend/            # Express server, database models, routes, and logic
-├── frontend/           # React application and UI components
-├── noteforme.txt       # Project notes and documentation
-└── package.json        # Dependencies and scripts
-
 ## Getting Started Locally
 
 ### 1. Clone the Repository
